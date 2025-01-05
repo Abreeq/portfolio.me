@@ -33,14 +33,14 @@ const Hero = () => {
         <h1 className="text-2xl font-bold">About Me</h1>
         <div className="w-16 h-1 bg-white group-hover:w-28 transition-all duration-500 ease-in"></div>
         <h2 className="text-justify pt-2 text-md font-semibold text-gray-400">
-          I'm <span className="text-lg font-bold text-white">Mohammad Abreeq,</span> a Computer Science student at
-          University of Kashmir. I'm a passionate learner, and a dedicated
+          I&apos;m <span className="text-lg font-bold text-white">Mohammad Abreeq,</span> a Computer Science student at
+          University of Kashmir. I&apos;m a passionate learner, and a dedicated
           full-stack developer passionate about building user-friendly and
           efficient digital solutions. Skilled in technologies like HTML, CSS,
           JavaScript, React, Node.js, Nextjs, MySql and MongoDB, I enjoy creating dynamic web
           applications and solving challenging problems. With a strong
           foundation in programming and continuous learning, I strive to stay
-          updated with emerging technologies. Let’s connect and work on
+          updated with emerging technologies. Let&apos;s connect and work on
           innovative projects that make a difference in the digital world!
         </h2>
         <div className="flex justify-center align-middle pt-7">
